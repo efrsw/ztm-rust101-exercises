@@ -42,7 +42,6 @@ impl Box {
         match self.color {
             Color::Red => println!("Color is red"),
             Color::Green => println!("Color is green"),
-
         };
     }
 }
